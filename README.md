@@ -1,13 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33391632/README.md)
-## Hi there 👋
-
-<!--
-**saidane-ghassen/saidane-ghassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Ghassen SAIDANE
+# Ghassen SAIDANE
 
 **Engineering student at ENISo | Embedded Systems, Firmware & Automotive**
 
@@ -48,11 +39,3 @@ The descriptions below summarize the documented project scope. Each repository p
 I am interested in final-year engineering internships (PFE) in embedded firmware, automotive electronics, connected systems and embedded security.
 
 **Contact:** [ghassen.saidane@eniso.u-sousse.tn](mailto:ghassen.saidane@eniso.u-sousse.tn)
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
